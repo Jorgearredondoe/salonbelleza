@@ -1,0 +1,1 @@
+{"version":3,"sources":["layout/UI.scss"],"names":[],"mappings":"AAQA,qBACI,YAAa","file":"UI.css","sourcesContent":["html{\r\n    \r\n}\r\n\r\nbody{\r\n    \r\n}\r\n\r\n.contenedor-estetica{\r\n    height: 100vh;\r\n\r\n    .imagen{\r\n\r\n    }\r\n}"]}
